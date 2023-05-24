@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ruilimadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruilimadev&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/ruilimadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruilimadev&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a>
 
-<img align="center"  alt="Views" height="30" width="140" src="https://komarev.com/ghpvc/?username=ruilimadev&style=flat-square&color=blue"/>
+<img align="center"  alt="Views" height="20" width="100" src="https://komarev.com/ghpvc/?username=ruilimadev&style=flat-square&color=blue"/>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,8 +22,7 @@
   <a href = "mailto:ruilimadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/rui-lima-780a7a88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
