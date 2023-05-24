@@ -2,10 +2,10 @@
   
 ## Hi there, I am a freelancer web developer and designer!
 
-<img src="https://komarev.com/ghpvc/?username=ruilimadev&style=flat-square&color=blue" alt="Views"/>
-
 <a href="https://github.com/ruilimadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruilimadev&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/ruilimadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruilimadev&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a>
 
+<img align="center"  alt="Views" height="30" width="140" src="https://komarev.com/ghpvc/?username=ruilimadev&style=flat-square&color=blue"/>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
-  ##
+  ## 
  
 <div> 
   <a href="https://instagram.com/ruilimadesign" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
